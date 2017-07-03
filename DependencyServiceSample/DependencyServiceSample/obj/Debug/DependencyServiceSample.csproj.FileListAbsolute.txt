@@ -1,0 +1,15 @@
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\bin\Debug\DependencyServiceSample.dll
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\bin\Debug\DependencyServiceSample.pdb
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\obj\Debug\DependencyServiceSample.csprojResolveAssemblyReference.cache
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\obj\Debug\DependencyServiceSample.MainPage.xaml.g.cs
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\obj\Debug\DependencyServiceSample.App.xaml.g.cs
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\obj\Debug\DependencyServiceSample.dll
+D:\Documents\XamarinProjects\DependencyServiceSample\DependencyServiceSample\DependencyServiceSample\obj\Debug\DependencyServiceSample.pdb
